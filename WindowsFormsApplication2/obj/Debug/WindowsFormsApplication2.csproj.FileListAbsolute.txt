@@ -1,0 +1,35 @@
+c:\users\samet\documents\visual studio 2013\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\samet\documents\visual studio 2013\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\samet\documents\visual studio 2013\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\samet\documents\visual studio 2013\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\EntityFramework.dll
+C:\Users\samet\documents\visual studio 2013\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\samet\documents\visual studio 2013\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\EntityFramework.xml
+C:\Users\samet\documents\visual studio 2013\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\samet\documents\visual studio 2013\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+C:\Users\samet\documents\visual studio 2013\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+C:\Users\samet\documents\visual studio 2013\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\samet\documents\visual studio 2013\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+C:\Users\samet\documents\visual studio 2013\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\samet\documents\visual studio 2013\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+C:\Users\samet\documents\visual studio 2013\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Giris.resources
+C:\Users\samet\documents\visual studio 2013\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\RdlCompile.cache
+C:\Users\samet\documents\visual studio 2013\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\RdlCompile.compiled
+C:\Users\samet\Documents\Visual Studio 2013\Projects\WindowsFormsApplication2 - Kopya\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\samet\Documents\Visual Studio 2013\Projects\WindowsFormsApplication2 - Kopya\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\samet\Documents\Visual Studio 2013\Projects\WindowsFormsApplication2 - Kopya\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+C:\Users\samet\Documents\Visual Studio 2013\Projects\WindowsFormsApplication2 - Kopya\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\samet\Documents\Visual Studio 2013\Projects\WindowsFormsApplication2 - Kopya\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\samet\Documents\Visual Studio 2013\Projects\WindowsFormsApplication2 - Kopya\WindowsFormsApplication2\bin\Debug\EntityFramework.dll
+C:\Users\samet\Documents\Visual Studio 2013\Projects\WindowsFormsApplication2 - Kopya\WindowsFormsApplication2\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\samet\Documents\Visual Studio 2013\Projects\WindowsFormsApplication2 - Kopya\WindowsFormsApplication2\bin\Debug\EntityFramework.xml
+C:\Users\samet\Documents\Visual Studio 2013\Projects\WindowsFormsApplication2 - Kopya\WindowsFormsApplication2\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\samet\Documents\Visual Studio 2013\Projects\WindowsFormsApplication2 - Kopya\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+C:\Users\samet\Documents\Visual Studio 2013\Projects\WindowsFormsApplication2 - Kopya\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+C:\Users\samet\Documents\Visual Studio 2013\Projects\WindowsFormsApplication2 - Kopya\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Giris.resources
+C:\Users\samet\Documents\Visual Studio 2013\Projects\WindowsFormsApplication2 - Kopya\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\samet\Documents\Visual Studio 2013\Projects\WindowsFormsApplication2 - Kopya\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+C:\Users\samet\Documents\Visual Studio 2013\Projects\WindowsFormsApplication2 - Kopya\WindowsFormsApplication2\obj\Debug\RdlCompile.cache
+C:\Users\samet\Documents\Visual Studio 2013\Projects\WindowsFormsApplication2 - Kopya\WindowsFormsApplication2\obj\Debug\RdlCompile.compiled
+C:\Users\samet\OneDrive\Staj - paylasım\proje\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\samet\OneDrive\Staj - paylasım\proje\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\samet\OneDrive\Staj - paylasım\proje\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
